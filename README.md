@@ -12,7 +12,7 @@ Features
 * Receipt classification using ML models
 * Evaluation and visualization of model performance
 
-Technologies Used
+# Technologies Used
 * Python: Programming language
 * OpenCV: Computer vision library
 * Tesseract: OCR engine
@@ -22,7 +22,9 @@ Technologies Used
 * Pandas: Data manipulation and analysis
 * NumPy: Numerical computing
 * Matplotlib: Data visualization
-Pipeline Overview: 
+  
+# Pipeline Overview: 
+
 * Image Preprocessing: Enhancing receipt images using techniques like grayscale conversion, thresholding, and noise reduction.
 * Text Extraction: Using Tesseract OCR to extract text from receipt images.
 * Text Preprocessing: Cleaning and tokenizing the extracted text.
